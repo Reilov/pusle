@@ -1,3 +1,9 @@
-﻿# Pulse
-Use HTML, CSS (Sass), JS, Php
-no adaptive for phones/tablets
+﻿# TECHNOLOGIES I USED
+HTML
+SASS
+JS
+PHP Mailer
+jQuery Validation
+jQuery Masked Input
+wowjs
+Slickjs
