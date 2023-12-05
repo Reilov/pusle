@@ -1,9 +1,10 @@
 ﻿# TECHNOLOGIES I USED
-HTML
-SASS
-JS
-PHP Mailer
-jQuery Validation
-jQuery Masked Input
-wowjs
-Slickjs
++ HTML
++ SASS
++ JS
++ PHP Mailer
++ jQuery
+  + Validation
+  + Masked Input
++ wowjs
++ Slickjs
